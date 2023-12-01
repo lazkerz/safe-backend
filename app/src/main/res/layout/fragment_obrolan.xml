@@ -6,20 +6,46 @@
     android:layout_height="match_parent"
     tools:context=".ui.obrolan.ObrolanFragment">
 
-    <ImageView
-        android:id="@+id/search"
-        android:layout_width="320dp"
-        android:layout_height="50dp"
-        android:src="@drawable/search"
+    <LinearLayout
+        android:id="@+id/bar_menu1"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="4dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"/>
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageButton
+            android:contentDescription="Kembali ke halaman sebelumnya"
+            android:background="@color/white"
+            android:id="@+id/buttonPindah"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="18dp"
+            android:layout_marginEnd="80dp"
+            android:src="@drawable/ic_back"
+            tools:ignore="TouchTargetSizeCheck" />
+
+        <TextView
+            android:id="@+id/teks_pt0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="50dp"
+            android:text="Aktivitas"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </LinearLayout>
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyleview"
         android:layout_width="match_parent"
-        android:layout_height="490dp"
-        app:layout_constraintTop_toBottomOf="@+id/search"
+        android:layout_height="550dp"
         android:padding="8dp"
-        tools:listitem="@layout/obrolan_item"/>
+        app:layout_constraintTop_toBottomOf="@+id/bar_menu1"
+        tools:listitem="@layout/obrolan_item" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
