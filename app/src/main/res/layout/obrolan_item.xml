@@ -38,7 +38,7 @@
                 android:id="@+id/nama"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:hint="Nama"
+                android:hint="Anda baru saja bergabung ke Komunitas Olahraga. Selamat mengikuti kegiatan \nyang bermanfaat agar lebih produktif"
                 android:textColor="@color/blue"
                 android:fontFamily="@font/poppins_semibold"
                 android:textSize="14dp">
@@ -49,10 +49,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/poppins_regular"
-                android:textSize="12dp"
-                android:hint="Isi"
-                android:textColor="@color/black">
-            </TextView>
+                android:hint="Kemarin 09.50"
+                android:textColor="@color/black"
+                android:textSize="12dp"></TextView>
 
         </LinearLayout>
 

@@ -8,8 +8,8 @@
 
     <item
         android:id="@+id/navigation_obrolan"
-        android:icon="@drawable/obrolan"
-        android:title="@string/title_obrolan" />
+        android:icon="@drawable/ic_notifications"
+        android:title="Aktivitas" />
 
     <item
         android:id="@+id/navigation_profile"

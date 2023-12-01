@@ -31,9 +31,6 @@ public final class FragmentHomeBinding implements ViewBinding {
   public final LinearLayout bar;
 
   @NonNull
-  public final ImageView bel;
-
-  @NonNull
   public final TextView bermanfaat;
 
   @NonNull
@@ -73,15 +70,14 @@ public final class FragmentHomeBinding implements ViewBinding {
   public final RecyclerView recyleview;
 
   private FragmentHomeBinding(@NonNull ConstraintLayout rootView, @NonNull ImageView avatar,
-      @NonNull LinearLayout bar, @NonNull ImageView bel, @NonNull TextView bermanfaat,
-      @NonNull ImageView dashboardImg, @NonNull TextView greeting, @NonNull LinearLayout layout2,
-      @NonNull LinearLayout layout3, @NonNull LinearLayout layout4, @NonNull TextView menu,
-      @NonNull ImageButton menu1, @NonNull ImageButton menu2, @NonNull ImageButton menu3,
-      @NonNull Button mulai, @NonNull TextView nama, @NonNull RecyclerView recyleview) {
+      @NonNull LinearLayout bar, @NonNull TextView bermanfaat, @NonNull ImageView dashboardImg,
+      @NonNull TextView greeting, @NonNull LinearLayout layout2, @NonNull LinearLayout layout3,
+      @NonNull LinearLayout layout4, @NonNull TextView menu, @NonNull ImageButton menu1,
+      @NonNull ImageButton menu2, @NonNull ImageButton menu3, @NonNull Button mulai,
+      @NonNull TextView nama, @NonNull RecyclerView recyleview) {
     this.rootView = rootView;
     this.avatar = avatar;
     this.bar = bar;
-    this.bel = bel;
     this.bermanfaat = bermanfaat;
     this.dashboardImg = dashboardImg;
     this.greeting = greeting;
@@ -133,12 +129,6 @@ public final class FragmentHomeBinding implements ViewBinding {
       id = R.id.bar;
       LinearLayout bar = ViewBindings.findChildViewById(rootView, id);
       if (bar == null) {
-        break missingId;
-      }
-
-      id = R.id.bel;
-      ImageView bel = ViewBindings.findChildViewById(rootView, id);
-      if (bel == null) {
         break missingId;
       }
 
@@ -220,7 +210,7 @@ public final class FragmentHomeBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentHomeBinding((ConstraintLayout) rootView, avatar, bar, bel, bermanfaat,
+      return new FragmentHomeBinding((ConstraintLayout) rootView, avatar, bar, bermanfaat,
           dashboardImg, greeting, layout2, layout3, layout4, menu, menu1, menu2, menu3, mulai, nama,
           recyleview);
     }
