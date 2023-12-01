@@ -8,12 +8,12 @@
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\card_lomba.png"
     },
     {
-        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_kerja7.png.flat",
-        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\kerja7.png"
-    },
-    {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_bg_edit_text.png.flat",
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\bg_edit_text.png"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_kerja7.png.flat",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\kerja7.png"
     },
     {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\layout_activity_pendaftaran_berhasil.xml.flat",
@@ -64,6 +64,10 @@
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\fragment_komunitas.xml"
     },
     {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_img_mural.png.flat",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\img_mural.png"
+    },
+    {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\layout_fragment_profile.xml.flat",
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\fragment_profile.xml"
     },
@@ -80,20 +84,12 @@
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\ic_google.png"
     },
     {
-        "merged": "com.example.aplikasisafe.app-merged_res-49:/layout_fragment_profile.xml.flat",
-        "source": "com.example.aplikasisafe.app-main-51:/layout/fragment_profile.xml"
-    },
-    {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_ic_back.xml.flat",
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\ic_back.xml"
     },
     {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_lomba3.png.flat",
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\lomba3.png"
-    },
-    {
-        "merged": "com.example.aplikasisafe.app-merged_res-49:/drawable_ic_done.xml.flat",
-        "source": "com.example.aplikasisafe.app-main-51:/drawable/ic_done.xml"
     },
     {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\layout_kegiatan_item.xml.flat",
@@ -128,6 +124,10 @@
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\mipmap-anydpi-v33\\ic_launcher.xml"
     },
     {
+        "merged": "com.example.aplikasisafe.app-merged_res-49:/layout_fragment_kegiatan.xml.flat",
+        "source": "com.example.aplikasisafe.app-main-51:/layout/fragment_kegiatan.xml"
+    },
+    {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\layout_activity_konfirmasi_pelatihan.xml.flat",
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_konfirmasi_pelatihan.xml"
     },
@@ -160,10 +160,6 @@
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\ava_post4.png"
     },
     {
-        "merged": "com.example.aplikasisafe.app-merged_res-49:/layout_activity_daftar_potensi.xml.flat",
-        "source": "com.example.aplikasisafe.app-main-51:/layout/activity_daftar_potensi.xml"
-    },
-    {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_ic_down.png.flat",
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\ic_down.png"
     },
@@ -178,10 +174,6 @@
     {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_gslide3.png.flat",
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\gslide3.png"
-    },
-    {
-        "merged": "com.example.aplikasisafe.app-merged_res-49:/layout_activity_detail_kegiatan.xml.flat",
-        "source": "com.example.aplikasisafe.app-main-51:/layout/activity_detail_kegiatan.xml"
     },
     {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_btn_save.png.flat",
@@ -256,10 +248,6 @@
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\trend_item.xml"
     },
     {
-        "merged": "com.example.aplikasisafe.app-merged_res-49:/drawable_ic_add.xml.flat",
-        "source": "com.example.aplikasisafe.app-main-51:/drawable/ic_add.xml"
-    },
-    {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_rectangle_menu.png.flat",
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\rectangle_menu.png"
     },
@@ -314,10 +302,6 @@
     {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_btn_ya.xml.flat",
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\btn_ya.xml"
-    },
-    {
-        "merged": "com.example.aplikasisafe.app-merged_res-49:/drawable_img_mural.png.flat",
-        "source": "com.example.aplikasisafe.app-main-51:/drawable/img_mural.png"
     },
     {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_searchview_bg.xml.flat",
@@ -416,12 +400,12 @@
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\menu\\bottom_nav_menu.xml"
     },
     {
-        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_obrolan.png.flat",
-        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\obrolan.png"
-    },
-    {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_cht3.png.flat",
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\cht3.png"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_obrolan.png.flat",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\obrolan.png"
     },
     {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\layout_activity_verifikasi_user4.xml.flat",
@@ -456,10 +440,6 @@
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\acara.png"
     },
     {
-        "merged": "com.example.aplikasisafe.app-merged_res-49:/layout_activity_berhasil_daftar.xml.flat",
-        "source": "com.example.aplikasisafe.app-main-51:/layout/activity_berhasil_daftar.xml"
-    },
-    {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_img_post.png.flat",
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\img_post.png"
     },
@@ -482,6 +462,10 @@
     {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\layout_activity_verifikasi_user3.xml.flat",
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_verifikasi_user3.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_btn_done.xml.flat",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\btn_done.xml"
     },
     {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\font_poppins_semibold.otf.flat",
@@ -560,6 +544,14 @@
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\img_post2.png"
     },
     {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\layout_activity_detail_kegiatan.xml.flat",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_detail_kegiatan.xml"
+    },
+    {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_kerja1.png.flat",
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\kerja1.png"
     },
@@ -632,6 +624,10 @@
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_daftar_kegiatan.xml"
     },
     {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_ic_done.xml.flat",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\ic_done.xml"
+    },
+    {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_logo_safe2.png.flat",
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\logo_safe2.png"
     },
@@ -668,10 +664,6 @@
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\komunitas_item.xml"
     },
     {
-        "merged": "com.example.aplikasisafe.app-merged_res-49:/drawable_bg_daftarpituh.xml.flat",
-        "source": "com.example.aplikasisafe.app-main-51:/drawable/bg_daftarpituh.xml"
-    },
-    {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_gambar3.png.flat",
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\gambar3.png"
     },
@@ -688,12 +680,12 @@
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\search_btn.png"
     },
     {
-        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\layout_activity_register.xml.flat",
-        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_register.xml"
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_bg_daftarpituh.xml.flat",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\bg_daftarpituh.xml"
     },
     {
-        "merged": "com.example.aplikasisafe.app-merged_res-49:/drawable_bg_potensi.png.flat",
-        "source": "com.example.aplikasisafe.app-main-51:/drawable/bg_potensi.png"
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_register.xml"
     },
     {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_btn_act_blue.xml.flat",
@@ -720,6 +712,10 @@
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\ic_home_black_24dp.xml"
     },
     {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_bg_potensi.png.flat",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\bg_potensi.png"
+    },
+    {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\layout_fragment_obrolan.xml.flat",
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\fragment_obrolan.xml"
     },
@@ -734,6 +730,10 @@
     {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_task5.png.flat",
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\task5.png"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\layout_activity_daftar_potensi.xml.flat",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_daftar_potensi.xml"
     },
     {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_card_berhasil.xml.flat",
@@ -772,12 +772,12 @@
         "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\kerja2.png"
     },
     {
-        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_out.png.flat",
-        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\out.png"
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\layout_activity_berhasil_daftar.xml.flat",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_berhasil_daftar.xml"
     },
     {
-        "merged": "com.example.aplikasisafe.app-merged_res-49:/drawable_btn_done.xml.flat",
-        "source": "com.example.aplikasisafe.app-main-51:/drawable/btn_done.xml"
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_out.png.flat",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\drawable\\out.png"
     },
     {
         "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-merged_res-49:\\drawable_img_post3.png.flat",

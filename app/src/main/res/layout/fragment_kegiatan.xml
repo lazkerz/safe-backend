@@ -26,12 +26,12 @@
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recyleview"
-            android:layout_width="345dp"
+            android:layout_width="match_parent"
             android:layout_height="235dp"
             android:orientation="horizontal"
             android:padding="8dp"
-            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
             app:layout_constraintTop_toBottomOf="@+id/lomba"
+            tools:layout_editor_absoluteX="0dp"
             tools:listitem="@layout/kegiatan_item" />
 
         <TextView
@@ -48,7 +48,7 @@
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recyleviewtrend"
-            android:layout_width="345dp"
+            android:layout_width="match_parent"
             android:layout_height="235dp"
             android:layout_marginTop="24dp"
             android:orientation="horizontal"
@@ -56,7 +56,7 @@
             app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
             app:layout_constraintTop_toTopOf="@+id/trending"
             tools:layout_editor_absoluteX="0dp"
-            tools:listitem="@layout/trend_item" />
+            tools:listitem="@layout/kegiatan_item" />
 
         <TextView
             android:id="@+id/acara"
@@ -71,14 +71,14 @@
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recyleviewacara"
-            android:layout_width="345dp"
+            android:layout_width="match_parent"
             android:layout_height="235dp"
             android:orientation="horizontal"
             android:padding="8dp"
             app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
             app:layout_constraintTop_toBottomOf="@id/acara"
             tools:layout_editor_absoluteX="0dp"
-            tools:listitem="@layout/acara_item" />
+            tools:listitem="@layout/kegiatan_item" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 

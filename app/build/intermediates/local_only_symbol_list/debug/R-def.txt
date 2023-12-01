@@ -189,7 +189,6 @@ id bar_komunitas
 id bar_menu1
 id bar_menuKegiatan
 id bar_temaPelatihan
-id bel
 id bell1
 id bell2
 id bell3
@@ -232,7 +231,6 @@ id button
 id buttonPindah
 id button_tidak
 id button_ya
-id card_acara
 id card_lomba
 id checkGreen
 id container
@@ -280,7 +278,6 @@ id imagechubs
 id imgPelatihan
 id img_komunitas
 id img_komunitas2
-id imgacara
 id imglomba
 id imgpost
 id isi
@@ -391,7 +388,6 @@ id txt_ttlHadiah
 id view
 id view2
 id waktuPelatihan
-layout acara_item
 layout activity_berhasil_daftar
 layout activity_berhasil_pelatihan
 layout activity_coba
@@ -436,7 +432,6 @@ layout materi_item
 layout menu_atas
 layout obrolan_item
 layout pelatihan_item
-layout trend_item
 menu bottom_nav_menu
 mipmap ic_launcher
 mipmap ic_launcher_round

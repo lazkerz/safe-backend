@@ -9,7 +9,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.cardview.widget.CardView;
+import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.aplikasisafe.R;
@@ -19,7 +19,7 @@ import java.lang.String;
 
 public final class KegiatanItemBinding implements ViewBinding {
   @NonNull
-  private final CardView rootView;
+  private final ConstraintLayout rootView;
 
   @NonNull
   public final ImageButton cardLomba;
@@ -30,7 +30,7 @@ public final class KegiatanItemBinding implements ViewBinding {
   @NonNull
   public final TextView lomba;
 
-  private KegiatanItemBinding(@NonNull CardView rootView, @NonNull ImageButton cardLomba,
+  private KegiatanItemBinding(@NonNull ConstraintLayout rootView, @NonNull ImageButton cardLomba,
       @NonNull ImageView imglomba, @NonNull TextView lomba) {
     this.rootView = rootView;
     this.cardLomba = cardLomba;
@@ -40,7 +40,7 @@ public final class KegiatanItemBinding implements ViewBinding {
 
   @Override
   @NonNull
-  public CardView getRoot() {
+  public ConstraintLayout getRoot() {
     return rootView;
   }
 
@@ -83,7 +83,7 @@ public final class KegiatanItemBinding implements ViewBinding {
         break missingId;
       }
 
-      return new KegiatanItemBinding((CardView) rootView, cardLomba, imglomba, lomba);
+      return new KegiatanItemBinding((ConstraintLayout) rootView, cardLomba, imglomba, lomba);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

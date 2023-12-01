@@ -3325,7 +3325,6 @@ id barrier
 id baseline
 id beginOnFirstDraw
 id beginning
-id bel
 id bell1
 id bell2
 id bell3
@@ -3379,7 +3378,6 @@ id button_ya
 id cache_measures
 id callMeasure
 id cancel_button
-id card_acara
 id card_lomba
 id carryVelocity
 id center
@@ -3542,7 +3540,6 @@ id imagechubs
 id imgPelatihan
 id img_komunitas
 id img_komunitas2
-id imgacara
 id imglomba
 id imgpost
 id immediateStop
@@ -4050,7 +4047,6 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-layout acara_item
 layout activity_berhasil_daftar
 layout activity_berhasil_pelatihan
 layout activity_coba
@@ -4172,7 +4168,6 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
-layout trend_item
 menu bottom_nav_menu
 mipmap ic_launcher
 mipmap ic_launcher_round

@@ -4,7 +4,9 @@ package com.example.aplikasisafe.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
+import android.widget.ImageButton;
+import android.widget.LinearLayout;
+import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
@@ -21,16 +23,25 @@ public final class FragmentObrolanBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
+  public final LinearLayout barMenu1;
+
+  @NonNull
+  public final ImageButton buttonPindah;
+
+  @NonNull
   public final RecyclerView recyleview;
 
   @NonNull
-  public final ImageView search;
+  public final TextView teksPt0;
 
-  private FragmentObrolanBinding(@NonNull ConstraintLayout rootView,
-      @NonNull RecyclerView recyleview, @NonNull ImageView search) {
+  private FragmentObrolanBinding(@NonNull ConstraintLayout rootView, @NonNull LinearLayout barMenu1,
+      @NonNull ImageButton buttonPindah, @NonNull RecyclerView recyleview,
+      @NonNull TextView teksPt0) {
     this.rootView = rootView;
+    this.barMenu1 = barMenu1;
+    this.buttonPindah = buttonPindah;
     this.recyleview = recyleview;
-    this.search = search;
+    this.teksPt0 = teksPt0;
   }
 
   @Override
@@ -60,19 +71,32 @@ public final class FragmentObrolanBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.bar_menu1;
+      LinearLayout barMenu1 = ViewBindings.findChildViewById(rootView, id);
+      if (barMenu1 == null) {
+        break missingId;
+      }
+
+      id = R.id.buttonPindah;
+      ImageButton buttonPindah = ViewBindings.findChildViewById(rootView, id);
+      if (buttonPindah == null) {
+        break missingId;
+      }
+
       id = R.id.recyleview;
       RecyclerView recyleview = ViewBindings.findChildViewById(rootView, id);
       if (recyleview == null) {
         break missingId;
       }
 
-      id = R.id.search;
-      ImageView search = ViewBindings.findChildViewById(rootView, id);
-      if (search == null) {
+      id = R.id.teks_pt0;
+      TextView teksPt0 = ViewBindings.findChildViewById(rootView, id);
+      if (teksPt0 == null) {
         break missingId;
       }
 
-      return new FragmentObrolanBinding((ConstraintLayout) rootView, recyleview, search);
+      return new FragmentObrolanBinding((ConstraintLayout) rootView, barMenu1, buttonPindah,
+          recyleview, teksPt0);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
