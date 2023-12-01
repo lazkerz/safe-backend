@@ -64,7 +64,7 @@
         android:id="@+id/out"
         android:layout_width="320dp"
         android:layout_height="50dp"
-        android:layout_marginTop="28dp"
+        android:layout_marginTop="16dp"
         android:background="@drawable/out"
         app:layout_constraintEnd_toEndOf="@id/bg_profile"
         app:layout_constraintHorizontal_bias="0.494"
