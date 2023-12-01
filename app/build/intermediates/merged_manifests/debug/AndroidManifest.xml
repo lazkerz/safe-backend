@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.aplikasisafe"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="24"
+        android:targetSdkVersion="33" />
+
+    <permission
+        android:name="com.example.aplikasisafe.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.example.aplikasisafe.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.AplikasiSafe" >
+        <activity
+            android:name="com.example.aplikasisafe.Pelatihan.BerhasilDaftarActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.aplikasisafe.Pelatihan.DetailKegiatanActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.aplikasisafe.Pelatihan.DaftarPotensiActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.aplikasisafe.potensi.DetailKegiatanActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.aplikasisafe.Splash.SplashActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.aplikasisafe.MainActivity"
+            android:exported="true"
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.aplikasisafe.Pelatihan.PilihanPelatihanActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.aplikasisafe.Pelatihan.VerifikasiUser4"
+            android:exported="false" />
+        <activity
+            android:name="com.example.aplikasisafe.Pelatihan.VerifikasiUser3"
+            android:exported="false" />
+        <activity
+            android:name="com.example.aplikasisafe.Pelatihan.VerifikasiUser2"
+            android:exported="false" />
+        <activity
+            android:name="com.example.aplikasisafe.Pelatihan.VerifikasiUser"
+            android:exported="false" />
+        <activity
+            android:name="com.example.aplikasisafe.potensi.PotensiActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.aplikasisafe.Pelatihan.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.aplikasisafe.Pelatihan.RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.aplikasisafe.Pelatihan.VerifikasiActivity1"
+            android:exported="false" />
+        <activity
+            android:name="com.example.aplikasisafe.Pelatihan.TemaPelatihanActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.aplikasisafe.Pelatihan.PendaftaranBerhasilActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.aplikasisafe.Pelatihan.PelatihanberhasilActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.aplikasisafe.Pelatihan.KonfirmasiPelatihanActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.aplikasisafe.Pelatihan.JobActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.aplikasisafe.Pelatihan.DetailPelatihanActivity"
+            android:exported="false"
+            android:label="Detail Pelatihan" />
+        <activity
+            android:name="com.example.aplikasisafe.Pelatihan.DetailKerjaActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.aplikasisafe.Pelatihan.DaftarPelatihanActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.aplikasisafe.Pelatihan.DaftarKerjaActivity"
+            android:exported="false" />
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.example.aplikasisafe.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+                android:value="androidx.startup" />
+        </provider>
+
+        <uses-library
+            android:name="androidx.window.extensions"
+            android:required="false" />
+        <uses-library
+            android:name="androidx.window.sidecar"
+            android:required="false" />
+
+        <receiver
+            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+            android:directBootAware="false"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="android.permission.DUMP" >
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

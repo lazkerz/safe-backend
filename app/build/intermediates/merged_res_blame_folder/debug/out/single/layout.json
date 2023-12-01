@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\fragment_kegiatan.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\fragment_kegiatan.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_kegiatan.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_kegiatan.xml"
+    },
+    {
+        "merged": "com.example.aplikasisafe.app-mergeDebugResources-48:/layout/activity_detail_kegiatan.xml",
+        "source": "com.example.aplikasisafe.app-main-51:/layout/activity_detail_kegiatan.xml"
+    },
+    {
+        "merged": "com.example.aplikasisafe.app-mergeDebugResources-48:/layout/fragment_profile.xml",
+        "source": "com.example.aplikasisafe.app-main-51:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_splash1.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_splash1.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\kegiatan_item.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\kegiatan_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\fragment_komunitas.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\fragment_komunitas.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_pilihan_pelatihan.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_pilihan_pelatihan.xml"
+    },
+    {
+        "merged": "com.example.aplikasisafe.app-mergeDebugResources-48:/layout/activity_berhasil_daftar.xml",
+        "source": "com.example.aplikasisafe.app-main-51:/layout/activity_berhasil_daftar.xml"
+    },
+    {
+        "merged": "com.example.aplikasisafe.app-mergeDebugResources-48:/layout/activity_daftar_potensi.xml",
+        "source": "com.example.aplikasisafe.app-main-51:/layout/activity_daftar_potensi.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_detail_pelatihan.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_detail_pelatihan.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_verifikasi_user4.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_verifikasi_user4.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\materi_item.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\materi_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_coba.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_coba.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_splash2.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_splash2.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_daftar_kerja.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_daftar_kerja.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_komunitas.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_komunitas.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\trend_item.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\trend_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_verifikasi_user2.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_verifikasi_user2.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_detail_kerja.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_detail_kerja.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_verifikasi1.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_verifikasi1.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\kerja_item.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\kerja_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\home_item.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\home_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\fragment_obrolan.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\fragment_obrolan.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_kegiatan_berhasil_actvity.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_kegiatan_berhasil_actvity.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_verifikasi_user.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_verifikasi_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_potensi.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_potensi.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_konfirmasi_pelatihan.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_konfirmasi_pelatihan.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\pelatihan_item.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\pelatihan_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_pendaftaran_berhasil.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_pendaftaran_berhasil.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\menu_atas.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\menu_atas.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\acara_item.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\acara_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_daftar_kegiatan.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_daftar_kegiatan.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_berhasil_pelatihan.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_berhasil_pelatihan.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_daftar_pelatihan.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_daftar_pelatihan.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_job.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_job.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_tema_pelatihan.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_tema_pelatihan.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_started.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_started.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\activity_verifikasi_user3.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\activity_verifikasi_user3.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\obrolan_item.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\obrolan_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\komunitas_item.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\komunitas_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-mergeDebugResources-48:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\usER\\.gradle\\daemon\\7.5\\com.example.aplikasisafe.app-main-51:\\layout\\fragment_home.xml"
+    }
+]

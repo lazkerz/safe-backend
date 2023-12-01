@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AplikasiSafe"
+        tools:targetApi="31">
+        <activity
+            android:name=".Pelatihan.BerhasilDaftarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Pelatihan.DetailKegiatanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Pelatihan.DaftarPotensiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".potensi.DetailKegiatanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Splash.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/title_activity_main">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Pelatihan.PilihanPelatihanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Pelatihan.VerifikasiUser4"
+            android:exported="false" />
+        <activity
+            android:name=".Pelatihan.VerifikasiUser3"
+            android:exported="false" />
+        <activity
+            android:name=".Pelatihan.VerifikasiUser2"
+            android:exported="false" />
+        <activity
+            android:name=".Pelatihan.VerifikasiUser"
+            android:exported="false" />
+        <activity
+            android:name=".potensi.PotensiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Pelatihan.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Pelatihan.RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Pelatihan.VerifikasiActivity1"
+            android:exported="false" />
+        <activity
+            android:name=".Pelatihan.TemaPelatihanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Pelatihan.PendaftaranBerhasilActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Pelatihan.PelatihanberhasilActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Pelatihan.KonfirmasiPelatihanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Pelatihan.JobActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Pelatihan.DetailPelatihanActivity"
+            android:exported="false"
+            android:label="Detail Pelatihan" />
+        <activity
+            android:name=".Pelatihan.DetailKerjaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Pelatihan.DaftarPelatihanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Pelatihan.DaftarKerjaActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>

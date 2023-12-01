@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acara">
+        <item>Color Run Party</item>
+        <item>Lomba Cipta Puisi</item>
+        <item>Konser Afgan</item>
+    </string-array>
+    <string-array name="data_kerja">
+        <item>Content Creator</item>
+        <item>Web Developer</item>
+        <item>Backend Engineer</item>
+        <item>Graphic Design</item>
+        <item>Digital Marketing</item>
+        <item>Wiraswasta</item>
+        <item>Koki Restoran</item>
+        <item>Akutansi</item>
+    </string-array>
+    <string-array name="data_pt">
+        <item>PT Mencari Aman</item>
+        <item>PT Sejahtera Aman</item>
+        <item>PT Dev Academy</item>
+        <item>PT Aman Sentosa</item>
+        <item>PT Aman Jaya</item>
+        <item>PT Suka Maju</item>
+        <item>PT Aman Jaya</item>
+        <item>PT Makmur</item>
+    </string-array>
+    <string-array name="desc">
+            <item>HTML adalah bahasa markup standar untuk \nmembuat halaman website. Bahasa ini berfungsi untuk membuat struktur \nwebsite hingga menyusun format teks dan gambar pada halaman web</item>
+         <item>CSS  atau Cascading Style Sheet adalah \nsebuah elemen atau komponen dari website agar memperindah  tampilan secara visual</item>
+           <item>Javascript adalah suatu bahasa pemrograman \nyang membuat halaman suatu website menjadi \nlebih dinamis dan interaktif </item>
+          <item>Belajar bagaimana menangani jaringan \nkomputer, mulai dari maintenance hingga \ntroubleshooting</item>
+           <item>PHP Adalah bahasa scripting server-side, \nBahasa pemrograman yang digunakan untuk \nmengembangkan situs web statis atau situs \nweb dinamis atau aplikasi Web. PHP singkatan \ndari Hypertext Pre-processor, yang sebelumnya \ndisebut Personal Home Pages</item>
+          <item>Kotlin memiliki fungsi untuk membuat aplikasi \nAndroid berjalan dengan lancar. Tidak hanya \nitu, Kotlin juga dapat digunakan untuk \nmembuat aplikasi berbasis web dan aplikasi \niOS. Salah satu contoh aplikasi yang dibangun \nmenggunakan Kotlin adalah Netflix (iOS)</item>
+    </string-array>
+    <integer-array name="image">
+        <item>@drawable/anti</item>
+        <item>@drawable/anti2</item>
+        <item>@drawable/anti3</item>
+        <item>@drawable/anti4</item>
+        <item>@drawable/anti5</item>
+    </integer-array>
+    <integer-array name="imageobrolan">
+        <item>@drawable/cht1</item>
+        <item>@drawable/cht2</item>
+        <item>@drawable/cht3</item>
+        <item>@drawable/cht4</item>
+    </integer-array>
+    <integer-array name="imgacara">
+        <item>@drawable/acara</item>
+        <item>@drawable/acara1</item>
+        <item>@drawable/acara2</item>
+    </integer-array>
+    <integer-array name="imglomba">
+        <item>@drawable/lomba</item>
+        <item>@drawable/lomba2</item>
+        <item>@drawable/lomba3</item>
+    </integer-array>
+    <integer-array name="imgpost">
+        <item>@drawable/img_post</item>
+        <item>@drawable/img_post2</item>
+        <item>@drawable/img_post3</item>
+        <item>@drawable/img_post4</item>
+    </integer-array>
+    <integer-array name="imgtrend">
+        <item>@drawable/trend2</item>
+        <item>@drawable/trend1</item>
+        <item>@drawable/trend</item>
+    </integer-array>
+    <string-array name="isi">
+        <item>Sosialisasi mengenai kejahatan dalam dunia maya adalah upaya penting untuk meningkatkan kesadaran individu tentang potensi bahaya dan risiko yang ada di lingkungan digital.</item>
+        <item>Tim Program Penguatan Kapasitas Organisasi Mahasiswa (PPKO) Ikatan Mahasiswa Muhammadiyah (IMM) Bimbingan dan Konseling (BK), Pendidikan Guru Sekolah Dasar (PGSD),</item>
+        <item>Kegiatan Gerakan Nasional Anti Kejahatan Seksual Anak (GN AKSA) diselenggarakan di Sumberagung pada Jumat, 24 Februari 2023 di aula Kalurahan Sumberagung.</item>
+        <item>Satgas antibegal merupakan satuan yang dibentuk khusus untuk mengantisipasi adanya kejahatan begal. Kapolri Jenderal Listyo Sigit Prabowo menyampaikan tim Satgas Anti Begal </item>
+        <item>Kapolres Metro Jakarta Selatan Kombes Pol Budi Sartono mengingatkan pesepeda di Ibu Kota untuk bersepeda tidak sendiri tetapi berkawan.</item>
+    </string-array>
+    <string-array name="isicht">
+        <item>Sindy: Halo semuanya</item>
+        <item>Angela: sadel siapa ini ketinggalan?</item>
+        <item>Badang: Laptop aku lagi blue screen:(</item>
+        <item>Kak besok ikut anak motor juga?</item>
+    </string-array>
+    <string-array name="isipost">
+        <item>Ayo gabung sini teman-teman</item>
+        <item>Semangat</item>
+        <item>Cari yang sehobi</item>
+        <item>Anak motor juga bisa produktif</item>
+    </string-array>
+    <string-array name="judul">
+        <item>Sosialisasi Pencegahan Kenakalan Remaja dan Kejahatan Dalam Dunia Maya</item>
+        <item>PPKO IMM BPP UAD Berkomitmen Edukasi Anti kejahatan Seksual</item>
+        <item>GERAKAN NASIONAL ANTI KEJAHATAN SEKSUAL ANAK</item>
+        <item>Kehadiran Satgas Anti Begal Dinilai Momentum Bersihkan Kejahatan Jalanan</item>
+        <item>Tips Gowes Anti Begal</item>
+    </string-array>
+    <string-array name="komunitas">
+        <item>Komunitas Anak Gunung</item>
+        <item>Komunitas Anak Corporat</item>
+        <item>Komunitas Sepeda</item>
+        <item>Komunitas Anak Motor</item>
+    </string-array>
+    <string-array name="lomba">
+        <item>Lomba Mural</item>
+        <item>Lomba Cipta Puisi</item>
+        <item>Lomba Fotography</item>
+    </string-array>
+    <string-array name="materi">
+        <item>BELAJAR FUNDAMENTAL HTML</item>
+          <item>BELAJAR CSS</item>
+          <item>BELAJAR JAVASCRIPT</item>
+           <item>NETWORK ENGINEER</item>
+        <item>BELAJAR PHP</item>
+       <item>BELAJAR KOTLIN</item>
+    </string-array>
+    <string-array name="nama">
+        <item>Komunitas Olahraga</item>
+        <item>Komunitas Bersepeda</item>
+        <item>Komunitas Teknik</item>
+        <item>Andini</item>
+    </string-array>
+    <string-array name="namaakun">
+        <item>Nurul</item>
+        <item>Liam</item>
+        <item>Andini</item>
+        <item>Farhan</item>
+    </string-array>
+    <string-array name="trend">
+        <item>MotoGp Bharat</item>
+        <item>IdeaFest 2023</item>
+        <item>TalkShow</item>
+    </string-array>
+    <color name="RED">#FF5E5B</color>
+    <color name="biru">#447186</color>
+    <color name="black">#FF000000</color>
+    <color name="blue">#447186</color>
+    <color name="green">#11DC4A</color>
+    <color name="grey">#7C7C7C</color>
+    <color name="grey_light">#EDEDED</color>
+    <color name="kuning">#FC844D</color>
+    <color name="orange">#FC844D</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#FF5E5B</color>
+    <color name="red1">#FFDC4A4A</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="item_horizontal_spacing">8dp</dimen>
+    <string name="app_name">Safe</string>
+    <string name="benefit">Gaji Pokok, Tunjangan, dan BPJS Kesehatan</string>
+    <string name="btn_daftar">Daftar</string>
+    <string name="btn_kegiatan">kegiatan</string>
+    <string name="btn_komunitas">komunitas</string>
+    <string name="daftar">Daftar</string>
+    <string name="desc_lomba">1. Kategori perlombaan SMA dan Umum
+        \n2. Peserta berumur 15 tahun ke atas
+        \n3. Waktu perlombaan maksimal 5 jam
+        \n4. Bahan disediakan panitia tripleks yang berukuran \n2,5 x 1 meter
+        \n5. Dibawah oleh masing-masing peserta (Pilox, Masker, \nChat semprot, dll)
+        \n6. Keputusan juri dalam pertandingan bersifat mutlak \ndan tidak dapat diganggu gugat.</string>
+    <string name="desc_pelatihan">Dengan diadakannya pelatihan ini membuat orang \nyang ingin mendapatkan
+                    pengetahuan dalam \nmengembangkan website dari nol hingga mengerti.</string>
+    <string name="desk_pekerjaan">1. Memiliki pengalaman 2 tahun \n2. Kemahiran dalam laravel \n3. Komunikasi dan kerja sama dengan tim \n4. Update dengan tren pengembangan web \n5. Menyelesaikan dan memecahkan masalah</string>
+    <string name="detail_benefit">Benefit : </string>
+    <string name="email">Email</string>
+    <string name="gaji">Rp 5.000.000 - Rp 8.000.000 /Bulan</string>
+    <string name="hintemail">Masukan email</string>
+    <string name="hintsandi">Masukan kata sandi</string>
+    <string name="jdl_kota1">Kota Penempatan :</string>
+    <string name="jdl_perusahaan">Tentang Perusahaan</string>
+    <string name="judul_desk_pekerjaan">Deksripsi Pekerjaan : </string>
+    <string name="judul_gaji">Gaji Perbulan</string>
+    <string name="judul_kerja">Cari Kerja</string>
+    <string name="katapendukung1">Apakah anda kesulitan dalam\n mencari pekerjaan saat ini?</string>
+    <string name="katasandi">Kata Sandi</string>
+    <string name="kategori">Kategori</string>
+    <string name="kerja1">Content Creator</string>
+    <string name="kerja2">Web Developer</string>
+    <string name="kerja3">Backend Engineer</string>
+    <string name="kerja4">Graphic Design</string>
+    <string name="kerja5">Digital Marketing</string>
+    <string name="kerja6">Wiraswasta</string>
+    <string name="kerja7">Koki Restoran</string>
+    <string name="kerja8">Akutansi</string>
+    <string name="kota_kerja1">Jakarta Selatan</string>
+    <string name="lewati">Lewati</string>
+    <string name="login">Masuk</string>
+    <string name="profile">Profile Saya</string>
+    <string name="pt1">PT Mencari Aman</string>
+    <string name="pt2">PT Sejahtera Aman</string>
+    <string name="pt3">PT Dev Academy</string>
+    <string name="pt4">PT Aman Sentosa</string>
+    <string name="pt5">PT Aman Jaya</string>
+    <string name="pt6">PT Suka Maju</string>
+    <string name="pt7">PT Aman Jaya</string>
+    <string name="pt8">PT Makmur</string>
+    <string name="simpan">Simpan</string>
+    <string name="teksbawah">Atau masuk dengan</string>
+    <string name="teksbawah2">Belum punya akun ?</string>
+    <string name="tentang_perusahaan">PT Sejahtera Aman adalah sebuah perusahaan yang sudah berdiri pada tahun 2016 dan menjadi perusahaan yang terpercaya. Kami memiliki 100 pegawai di tiap daerah dan total 10.000 pegawai di seluruh indonesia </string>
+    <string name="tidak">Tidak</string>
+    <string name="timeline_pelatihan">Hari : Sabtu, 16 September
+                    \nPukul : 10:00 - Selesai
+                    \nOnline di zoom
+                    \n*Link akan dibagikan lewat email
+                    apabila sudah \nmendaftar</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_obrolan">Obrolan</string>
+    <string name="title_profile">Profile</string>
+    <string name="ya">Ya</string>
+    <style name="Base.Theme.AplikasiSafe" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    </style>
+    <style name="Theme.AplikasiSafe" parent="Base.Theme.AplikasiSafe"/>
+</resources>

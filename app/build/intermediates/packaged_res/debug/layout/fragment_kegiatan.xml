@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".potensi.KegiatanFragment">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <TextView
+            android:id="@+id/lomba"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lomba"
+            android:textColor="@color/blue"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="15dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:fontFamily="@font/poppins_semibold"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyleview"
+            android:layout_width="345dp"
+            android:layout_height="235dp"
+            android:orientation="horizontal"
+            android:padding="8dp"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            app:layout_constraintTop_toBottomOf="@+id/lomba"
+            tools:listitem="@layout/kegiatan_item" />
+
+        <TextView
+            android:id="@+id/trending"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="238dp"
+            android:fontFamily="@font/poppins_semibold"
+            android:text="Trending Acara"
+            android:textColor="@color/blue"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/recyleview" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyleviewtrend"
+            android:layout_width="345dp"
+            android:layout_height="235dp"
+            android:layout_marginTop="24dp"
+            android:orientation="horizontal"
+            android:padding="8dp"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            app:layout_constraintTop_toTopOf="@+id/trending"
+            tools:layout_editor_absoluteX="0dp"
+            tools:listitem="@layout/trend_item" />
+
+        <TextView
+            android:id="@+id/acara"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:fontFamily="@font/poppins_semibold"
+            android:text="Trending Acara"
+            android:textColor="@color/blue"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/recyleviewtrend" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyleviewacara"
+            android:layout_width="345dp"
+            android:layout_height="235dp"
+            android:orientation="horizontal"
+            android:padding="8dp"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            app:layout_constraintTop_toBottomOf="@id/acara"
+            tools:layout_editor_absoluteX="0dp"
+            tools:listitem="@layout/acara_item" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>
